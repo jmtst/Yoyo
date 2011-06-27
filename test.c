@@ -1,4 +1,4 @@
-void main(int argc, char** argv)
+int main(int argc, char** argv)
 {
-	return FFFFFFFUUUUUUUUUUUU;
+	return 0;
 }
